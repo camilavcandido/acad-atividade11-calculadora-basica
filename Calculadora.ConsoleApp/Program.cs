@@ -76,7 +76,7 @@ namespace Calculadora.ConsoleApp
                 "Digite 2 - para subtrair\n" +
                 "Digite 3 - multiplicar \n" +
                 "Digite 4 - para dividir\n" +
-                "Digite 5 - vizualizar histórico\n" +
+                "Digite 5 - visualizar histórico\n" +
                 "Digite 0 -  sair");
 
             apresentaMensagem("Escolha Opção: ", ConsoleColor.Blue);
